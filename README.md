@@ -43,6 +43,7 @@ COMMANDS
   stop          Stop the MultiSignature server
   update        Update the MultiSignature server installation
 ```
+multisig-server start --network=mainnet --host=0.0.0.0 --port=8100
 
 ### `start`
 
